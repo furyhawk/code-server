@@ -22,6 +22,12 @@ Code v99.99.999
 
 ## Unreleased
 
+Code v1.145.2
+
+### Changed
+
+- Update to Code 1.145.2
+
 ### Added
 
 - `--disable-file-cache` keeps workspace files out of the browser cache. It
